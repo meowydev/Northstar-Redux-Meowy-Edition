@@ -1,7 +1,10 @@
-# Northstar
+# Northstar Meowy Edition
 <a href="https://modrinth.com/mod/northstar-redux"><img src="https://img.shields.io/modrinth/dt/northstar-redux?logo=modrinth&style=for-the-badge&label=downloads&color=5ca424&logoColor=5ca424" alt="Modrinth"></a>
 <a href="https://discord.gg/nn96VTzeqj"><img src="https://img.shields.io/discord/1395363398102945822?style=for-the-badge&logo=discord&label=Discord"></a>
 <a href="https://ko-fi.com/redstonneur1256"><img src="https://shields.io/badge/ko--fi-donate-ff5f5f?logo=ko-fi&style=for-the-badge"></a>
+
+I will leave the links of the original mod
+
 ### This mod requires [Create](https://modrinth.com/mod/create) & [Geckolib](https://modrinth.com/mod/geckolib) to work!
 
 ## Issues/Suggestions:
@@ -17,5 +20,5 @@ Make sure that no existing issue matches the bug or feature and that it isn't pl
 - Always test your changes. Make sure that the code compiles and that the change works as expected.
 
 ## Planned:
-- ~~Fabric~~
-- Distant Horizons integration for takeoffs and space stations
+- Sync with Original
+- Add Create: Aeronautics support
